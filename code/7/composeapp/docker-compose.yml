@@ -8,4 +8,4 @@ services:
     volumes:
      - .:/composeapp
   redis:
-    image: redis
+    image: registry.docker-cn.com/library/redis
