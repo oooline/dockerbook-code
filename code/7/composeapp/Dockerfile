@@ -1,4 +1,5 @@
-FROM python:2.7
+FROM registry.docker-cn.com/library/python:2.7
+#FROM python:2.7
 MAINTAINER James Turnbull <james@example.com>
 ENV REFRESHED_AT 2016-08-01
 
